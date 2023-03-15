@@ -1,5 +1,10 @@
 # Dev - your coding AI
-<p>Dev is AI application that will help you to code</p>
+
+<p>If you found this project useful or interesting, please consider giving it a star! ⭐️</p>
+
+### Overview
+
+<p>Dev is an advanced AI application. By harnessing the power of artificial intelligence, Dev streamlines the coding process, leading to increased productivity and more efficient project completion.</p>
 
 ### Screenshot
 
